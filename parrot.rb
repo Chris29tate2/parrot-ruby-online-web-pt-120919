@@ -2,4 +2,6 @@
 # returns the phrase
 
 def say "parrot" (phrase)
-  puts 
+  puts phrase
+end 
+end
