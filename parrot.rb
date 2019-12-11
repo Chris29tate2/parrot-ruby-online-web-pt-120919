@@ -3,5 +3,6 @@
 
 def say "parrot" (phrase)
   puts phrase
+  returns thank you
 end 
 end
